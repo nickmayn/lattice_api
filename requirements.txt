@@ -1,0 +1,5 @@
+linkedin-api-client
+fastapi
+pydantic==1.9.1
+typing
+uvicorn
