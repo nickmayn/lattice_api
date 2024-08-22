@@ -4,3 +4,4 @@ pydantic==1.9.1
 typing
 uvicorn
 sphinx
+sphinxawesome-theme
