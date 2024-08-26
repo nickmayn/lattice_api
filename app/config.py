@@ -2,6 +2,7 @@ from pydantic import BaseSettings
 
 class Settings(BaseSettings):
     APP_NAME: str = 'Lattice'
+    VERSION: str = '0.0.1'
     ROOT_PATH: str = ''
     CORS_ORIGINS: str = '*'
 
