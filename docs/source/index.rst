@@ -6,9 +6,9 @@
 Lattice
 =====================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+The purpose of project Lattice is to provide a flexible framework for visualizing graph based data. Essentially this
+enables data to easily be easily ingested and viewed as a graph.
+
 
 
 .. toctree::
