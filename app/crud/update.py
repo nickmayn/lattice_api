@@ -3,3 +3,6 @@ def update_node():
 
 def update_edge():
     return
+
+def update_graph():
+    return
